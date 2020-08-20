@@ -2,19 +2,19 @@
  {
   var allQuestions = [{
     question: "¿Es un sistema de distribución de documentos de hipertexto o hipermedia interconectados y accesibles a través de Internet:",
-    options: ["World Wide Web (WWW)", "Hypertext Transfer Protocol (HTTP)", "Banyan", "Palm"],
-    answer: 2
+    options: ["World Wide Web (WWW)", "Hypertext Transfer Protocol (HTTP)", "A y B son incorrectas", "A Y B son correctas"],
+    answer: 0
   }, {
-    question: "Electric bulb filament is made of",
-    options: ["Copper", "Aluminum", "lead", "Tungsten"],
+    question: "El numero 3 es la correcta",
+    options: ["0", "1", "2", "3"],
     answer: 3
   }, {
-    question: "Non Metal that remains liquid at room temprature is",
-    options: ["Phophorous", "Bromine", "Clorine","Helium"],
+    question: "El numero 1 es la correcta",
+    options: ["0", "1", "2", "3"],
     answer: 1
   },{
-    question: "Which of the following is used in Pencils ?",
-    options: ["Graphite", "Silicon", "Charcoal", "Phosphorous"],
+    question: "El numero 0 es la correcta",
+    options: ["0", "1", "2", "3"],
     answer: 0
   }];
   
